@@ -80,7 +80,7 @@ git push
 
 ## Installed Skills
 
-`/recap` `/rrr` `/forward` `/standup` `/learn` `/dig` `/trace` `/talk-to` `/verify` `/test-plan` `/nyquist` `/security-audit`
+`/recap` `/rrr` `/forward` `/standup` `/learn` `/dig` `/trace` `/talk-to` `/xray` `/resonance` `/bud` `/verify` `/test-plan` `/nyquist` `/security-audit`
 
 ## Brain Structure
 
