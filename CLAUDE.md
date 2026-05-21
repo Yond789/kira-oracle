@@ -25,6 +25,9 @@
 | `echo` | Docs & Context Engineer | `echo-oracle` |
 | `hana` | UX / Design | `hana-oracle` |
 | `zeta` | Trading & Finance Research Lead | `zeta-oracle` |
+| `alpha` | Quant Strategy | `alpha-oracle` |
+| `omega` | Risk & Compliance | `omega-oracle` |
+| `sigma` | Data Engineering | `sigma-oracle` |
 
 ## GSD-Inspired Verification Principles
 
