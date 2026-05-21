@@ -24,6 +24,7 @@
 | `rei` | Security / AppSec | `rei-oracle` |
 | `echo` | Docs & Context Engineer | `echo-oracle` |
 | `hana` | UX / Design | `hana-oracle` |
+| `zeta` | Trading & Finance Research Lead | `zeta-oracle` |
 
 ## GSD-Inspired Verification Principles
 
